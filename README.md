@@ -11,9 +11,7 @@ top of it.
 This image uses the latest version of Composer. You can find
 details about Composer installation in `composerinstall.
 sh`.Composer installation is based on this description:
-[https://getcomposer.org/doc/faqs/how-to-install-composerprogrammatically.
-md](https://getcomposer.org/doc/faqs/how-toinstall-
-composer-programmatically.md).
+[https://getcomposer.org/doc/faqs/how-to-install-composerprogrammatically.md](https://getcomposer.org/doc/faqs/how-toinstall-composer-programmatically.md).
 
 ## Usage
 
