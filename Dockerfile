@@ -2,9 +2,10 @@
 FROM php:7.2.2-apache
 
 RUN apt-get update && apt-get install -y \
-    git \
+    git  \
     wget \
-    zip \
+    zip  \
+    nano \
     && rm -rf /var/lib/apt/lists/*
 
 RUN a2enmod rewrite
